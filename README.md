@@ -1,9 +1,3 @@
----
-editor_options: 
-  markdown: 
-    wrap: 90
----
-
 # The Climate Implications of Ending Global Poverty
 
 This repository includes replication code, data sets, and figures from the paper "[The
