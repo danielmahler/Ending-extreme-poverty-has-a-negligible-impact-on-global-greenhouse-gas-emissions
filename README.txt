@@ -1,1 +1,0 @@
-This repository contains the code and data behind the paper "The Climate Implications of Ending Global Poverty" by Philip Wollburg ⓡ Stephane Hallegatte ⓡ Daniel Gerszon Mahler.
