@@ -1,6 +1,4 @@
 *.eps
-01-Inputdata
-02-Intermediatedata
 03-Outputdata/GHG_scenarios.dta
 .Rhistory
 .gitignore

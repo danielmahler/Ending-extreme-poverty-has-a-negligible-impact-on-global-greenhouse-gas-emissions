@@ -1,0 +1,5 @@
+IAM Scenarios tab ->
+MARKER
+   SSP (IMAGE)
+      1.9 and 2.6
+Variable: Harmonized emissions, Kyoto Gases
