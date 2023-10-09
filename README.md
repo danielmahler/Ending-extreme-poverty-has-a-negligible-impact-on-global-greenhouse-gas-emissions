@@ -1,4 +1,4 @@
-# The Climate Implications of Ending Global Poverty
+# Ending extreme poverty has a negligible impact on global greenhouse gas emissions
 
 This repository includes replication code, data sets, and figures from the paper "[Ending extreme poverty has a negligible impact on global greenhouse gas emissions](https://documents1.worldbank.org/curated/en/099557002242323911/pdf/IDU0bbf17510061a9045530b57a0ccaba7a1dc79.pdf)"
 by [Phillip
