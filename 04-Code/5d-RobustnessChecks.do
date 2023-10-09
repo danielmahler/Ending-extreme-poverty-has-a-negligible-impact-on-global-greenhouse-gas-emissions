@@ -35,13 +35,13 @@ by(povertyline, rows(1) compact xrescale yrescale note("") graphregion(color(whi
 color(black) lcolor(black%0) graphregion(color(white)) xsize(6.4) ysize(2.2) ///
  xtitle("CO2e needed relative to global 2019 emissions (%)") subtitle(,fcolor(white) nobox) ///
 plotregion(margin(0 0 0 0)) 
-graph export "05-Figures/ExtendedDataFigure8d.png", as(png) width(1000) replace
-graph export "05-Figures/ExtendedDataFigure8d.eps", as(eps) cmyk(off) fontface(Arial)  replace
+graph export "05-Figures/ExtendedDataFigure8c.png", as(png) width(1000) replace
+graph export "05-Figures/ExtendedDataFigure8c.eps", as(eps) cmyk(off) fontface(Arial)  replace
 
 // Source data
 keep povertyline ghgincrease_2019 simulation
 lab var ghgincrease "CO2e needed relative to global 2019 emissions (%)"
-export excel using "05-Figures\SourceData.xlsx", sheet("ExtendedDataFigure8d") sheetreplace firstrow(varlabels)
+export excel using "05-Figures\SourceData.xlsx", sheet("ExtendedDataFigure8c") sheetreplace firstrow(varlabels)
 
 
 **************************************

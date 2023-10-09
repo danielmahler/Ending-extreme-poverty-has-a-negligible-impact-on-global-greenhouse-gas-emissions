@@ -1,4 +1,13 @@
 *.eps
+*.gph
+*7a-MergePanels.do
+*ExtendedDataFigure1.pdf
+*ExtendedDataFigure3.png
+*ExtendedDataFigure4.png
+*ExtendedDataFigure5.png
+*ExtendedDataFigure8.png
+*ExtendedDataFigure9.png
+*05-Figures/Figure2.png
 03-Outputdata/GHG_scenarios.dta
 .Rhistory
 .gitignore
