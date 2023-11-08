@@ -2,7 +2,6 @@
 *** INTRODUCTION ***
 ********************
 // This file produces illustrative figures of the poverty-alleviation and no-poverty-reduction scenarios
-cd "C:\Users\WB514665\OneDrive - WBG\Research\Poverty-climate_public"
 
 // Graph settings
 graph set window fontface "Arial"

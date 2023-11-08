@@ -2,7 +2,6 @@
 *** INTRODUCTION ***
 ********************
 // This file produces the figures with our main results
-cd "C:\Users\WB514665\OneDrive - WBG\Research\Poverty-climate_public"
 
 // Graph settings
 global color1 = "0 0 0"

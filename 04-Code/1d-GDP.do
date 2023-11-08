@@ -9,6 +9,8 @@
 *ssc install wbopendata
 // The growth data retained through the next line is the most recent in the World Development Indicators.
 // For the published version of the paper we used the data in WDI available as of 2022.12.19. 
+// To replicate the results of the paper, rather than running this .do-file, use the output file "02-Intermediatedata\GDP.dta" in the repository for the subsequent analysis.
+// If this .do-file is run, most results will deviate a little from the paper due to updated GDP data.
 wbopendata, indicator(NY.GDP.PCAP.PP.KD) long clear
 // Only keep relevant variables
 keep countrycode year ny_gdp

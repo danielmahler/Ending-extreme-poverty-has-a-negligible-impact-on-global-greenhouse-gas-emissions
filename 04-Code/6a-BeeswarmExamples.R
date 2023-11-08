@@ -65,5 +65,5 @@ mutate(Scenario = case_when(case=="baseline" ~ "Benin 2022",
 
   
        
-openxlsx::write.xlsx(sourcedata, file="05-Figures/SourceData.xlsx",sheetName = "ExtendedDataFigure1",colnames = TRUE)
+openxlsx::write.xlsx(sourcedata, file="05-Figures/SourceData.xlsx",sheetName = "ExtendedDataFigure1",colnames = TRUE, append=TRUE)
 

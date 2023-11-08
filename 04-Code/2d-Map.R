@@ -70,5 +70,5 @@ colors = c("#000000","#E69F00","#009E73","#56B4E9","grey")
                               category==4 ~ "Target met at $6.85 (less than 3% below the $6.85 poverty line)")) %>% 
   select(ISO_CODES,Category) %>% 
   rename("Country code"="ISO_CODES")
-  openxlsx::write.xlsx(sourcedata, file="05-Figures/SourceData.xlsx",sheetName = "ExtendedDataFigure2a",colnames = TRUE)
+  openxlsx::write.xlsx(sourcedata, file="05-Figures/SourceData.xlsx",sheetName = "ExtendedDataFigure2a",colnames = TRUE, append==TRUE)
   
